@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_icon_size">@dimen/_28sdp</dimen>
+    <dimen name="home_icon_layout">@dimen/_56sdp</dimen>
+    <dimen name="picker_item_directory_height">80dp</dimen>
+    <dimen name="media_icon_size">@dimen/_43sdp</dimen>
+
+</resources>

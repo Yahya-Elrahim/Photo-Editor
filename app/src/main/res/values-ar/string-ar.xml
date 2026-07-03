@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_add_watermark">أطلق العنان لإبداعك وابتكر فنك الخاص </string>
+    <string name="settings">الاعدادات</string>
+    <string name="dialog_permission_title">نحتاج بعض الصلاحيات</string>
+    <string name="dialog_permission_details">نحن نحتاج الاذن لاستخدام هذه الميزة. تستطيع تفعيل هذه الميزة من الاعدادات</string>
+    <string name="dialog_go_settings">الاعدادات</string>
+    <string name="cancel">إلغاء</string>
+    <string name="menu_share">مشاركة التطبيق</string>
+    <string name="menu_rate">تقييم</string>
+    <string name="menu_feedback">المراجعة والدعم</string>
+    <string name="menu_more_app">تطبيقات اخرى</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+
+
+
+    <string name="text_title_dialog_sort_by_photo">فرز الصورة حسب</string>
+    <string name="text_title_dialog_sort_by_album">ترتيب الألبوم حسب</string>
+    <string name="action_sort">ترتيب</string>
+    <string name="ad_attribution">اعلان</string>
+    <string name="rating_promote">نحن نعمل بجد للحصول على تجربة أفضل للمستخدn\  نقدر كثيرا إذا كنت تستطيع تقييم لنا.</string>
+    <string name="rating_title_1">لا. هذا فظيع!!!</string>
+    <string name="rating_title_2">سيئ!!!</string>
+    <string name="rating_title_3">متوسط!</string>
+    <string name="rating_title_4">جيد!</string>
+    <string name="rating_title_5">نحن نحبك ايضا!</string>
+    <string name="rating_text_1">نحن حقا بحاجة لتقيميك للتحسين.</string>
+    <string name="rating_text_4">شكرا لتقيميك.</string>
+    <string name="rating_text_5">أفضل ما يمكننا الحصول عليه :)</string>
+    <string name="rating_text_how_get">كيف يمكننا الحصول على 5 نجوم</string>
+    <string name="rating_text_rate_us">قيمنا 5 نجوم على كوكل بلاي</string>
+    <string name="rating_text_rate_on_store">قيمنا على كوكل بلاي</string>
+    <string name="feedback">المراجعة والدعم</string>
+    <string name="tap_to_select">جميع الألبومات</string>
+    <string name="select_photo">اختر الصور</string>
+    <string name="rating_dialog_feedback_title">المراجعة والدعم</string>
+    <string name="text_images">(%1$d)</string>
+    <string name="select_images">حدد مابين 2–9 صور</string>
+    <string name="text_title_activity_album">الألبومات</string>
+
+
+    <string name="press_back">يرجى الضغط مرة أخرى للخروج</string>
+    <string name="sharpen">اِقتَطَط</string>
+    <string name="hue">التدرج اللوني</string>
+    <string name="exposure">عرض</string>
+    <string name="saturation">التشبع الوني</string>
+    <string name="choose_email">اختر التطبيق</string>
+    <string name="brightness">السطوع</string>
+    <string name="contrast">تَبَايُن</string>
+    <string name="rating_dialog_maybe_later">ربما لاحقا</string>
+    <string name="rating_dialog_submit">تقييم</string>
+    <string name="dialog_discard_title">لم  يتم حفظ التغييرات. هل تريد الاستمرا ؟</string>
+    <string name="discard">تجاهل</string>
+    <string name="save">حفظ</string>
+    <string name="edit">محرر الصور</string>
+    <string name="collage">تجميع</string>
+    <string name="camera">كميرا</string>
+    <string name="gallery">معرض الصور</string>
+    <string name="please_try_again">عفوا, يرجى المحاولة مرة أخرى …</string>
+    <string name="directory">/.PhotoEditorTemp/</string>
+    <string name="importing_image">استيراد الصورة…</string>
+    <string name="import_img_warning">يرجى استيراد صورة!!!</string>
+    <string name="import_error">حدث خطأ أثناء الحصول على الصورة.</string>
+    <string name="drag_color">اسحب المؤشر من أجل المسح</string>
+    <string name="redoing">إعادة</string>
+    <string name="drag_bw">اسحب المؤشر لاستعادة الصورة.</string>
+    <string name="undoing">تراجع</string>
+    <string name="msg_draw_lasso">ارسم مسارا مغلقا.</string>
+    <string name="msg_up_arrow">انقر فوق السهم للأعلى للحصول على الخيارات</string>
+    <string name="msg_auto_btn">انقر على زر تلقائي لإجراء المسح التلقائي</string>
+    <string name="msg_lasso_btn">انقر على زر استخراج</string>
+    <string name="msg_manual_btn">انقر على زر يدوي للمسح يدويا</string>
+    <string name="msg_bw_btn">انقر على زر استعادة لاستعادة الصورة</string>
+    <string name="msg_zoom_btn">انقر على زر التكبير لسحب وتكبير الصورة.</string>
+    <string name="txt_not_detect_human">فشل الكشف البشري. يرجى المحاولة مرة أخرى.</string>
+    <string name="cut_photo">اختر صورة</string>
+    <string name="cut_outside">قطع خارجيا</string>
+    <string name="cut_inside">قطع داخليا</string>
+    <string name="radius">حجم</string>
+    <string name="threshold">الحد الأدنى</string>
+    <string name="offset">إزاحة</string>
+    <string name="auto">تلقائي</string>
+    <string name="restore">استعادة</string>
+    <string name="zoom">تكبير</string>
+    <string name="whitebalance">توازن اللون الأبيض</string>
+    <string name="vignette">المشهد</string>
+    <string name="on_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="connect_internet">يرجى الاتصال بالإنترنت . حتى تنقذ!</string>
+    <string name="ok">OK</string>
+
+    <string name="btn_free_trial">7-Day Free Trial</string>
+    <string name="btn_billing">One Time Purchase</string>
+
+    <string-array name="array_sort_value">
+        <item>أسم</item>
+        <item>حجم</item>
+        <item>تاريخ</item>
+    </string-array>
+
+    <string name="no_ads_evermore">No ads evermore</string>
+    <string name="continue_btn">تابع</string>
+    <string name="use_without_internet">استخدام دون الإنترنت.</string>
+    <string name="access_to_all_features">الوصول إلى جميع الميزات.</string>
+    <string name="join_full_experience">Join Full Experience.</string>
+    <string name="email_app_not_installed">تطبيق البريد الإلكتروني غير مثبت</string>
+    <string name="extra">إضافي</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="next">التالي</string>
+    <string name="app_not_installed_error">لا يمكن العثور على هذا التطبيق ، يرجى تحميله والمحاولة مرة أخرى</string>
+
+    <string name="fonts">الخطوط</string>
+    <string name="shadows">الظلال</string>
+    <string name="color">اللون</string>
+    <string name="background">الخلفية</string>
+    <string name="width">العرض</string>
+    <string name="height">الارتفاع</string>
+    <string name="texture">بنية</string>
+    <string name="colored">ملون</string>
+    <string name="crop">اقتصاص الصورة</string>
+    <string name="rotate">تدوير</string>
+    <string name="horizontal">أفقي</string>
+    <string name="vertical">عمودي</string>
+    <string name="filter">فلتر</string>
+    <string name="gradient">التدرج</string>
+    <string name="mirror">مرآة</string>
+    <string name="mosaic">الزخرفة</string>
+    <string name="ratio">نسبة الأبعاد</string>
+    <string name="lasso">Losso</string>
+    <string name="erase">ممحاة</string>
+    <string name="editing">التحرير</string>
+    <string name="name_album">اسم الألبوم</string>
+    <string name="paint">رسم</string>
+    <string name="shadow">الظل</string>
+    <string name="art">فن</string>
+    <string name="style">الاسلوب</string>
+    <string name="flip">قلب الصورة</string>
+    <string name="eraser">ممحاة</string>
+    <string name="blur">ألغباشة</string>
+    <string name="drip">تقطير</string>
+    <string name="motion">الحركة</string>
+    <string name="count">عدد</string>
+    <string name="opacity">الشفافية</string>
+    <string name="spiral">الحلزوني</string>
+    <string name="shape">شكل</string>
+    <string name="frame">إطار</string>
+    <string name="gray">Gray</string>
+    <string name="manual">يدوي</string>
+    <string name="wing">الجناح</string>
+    <string name="layout">النسق</string>
+    <string name="border">الحدود</string>
+    <string name="add_text">أضف نصًا</string>
+    <string name="adjust">الإنسجام</string>
+    <string name="overlay">التَطابُق</string>
+    <string name="hard_mix">مزج بقسوة</string>
+    <string name="dodge">تملص</string>
+    <string name="burn">حرق</string>
+    <string name="size">الحجم</string>
+    <string name="neon">نيون</string>
+    <string name="magic">سحر</string>
+    <string name="extract">استخراج</string>
+    <string name="share_to">مشاركة</string>
+    <string name="other">اخرى</string>
+    <string name="ad">إعلان</string>
+    <string name="exit">خروج</string>
+    <string name="discard_changes">تجاهل التغييرات</string>
+
+    <string name="effect">تأثير</string>
+    <string name="text">نص</string>
+    <string name="sticker">ملصق</string>
+    <string name="draw">رسم</string>
+    <string name="splash">سبلاش</string>
+    <string name="pixlab">PixLab</string>
+    <string name="splash_bg">سبلاش BG</string>
+    <string name="sketch_bg">تَصمِيم BG</string>
+    <string name="blur_bg">ألغباشة BG</string>
+    <string name="splash_sq">تَصمِيم SQ</string>
+    <string name="sketch_sq">Sketch SQ</string>
+    <string name="change">تغيير</string>
+    <string name="padding">هامش داخلي</string>
+
+    <string name="select_least">الرجاء اختيار على الاقل </string>
+    <string name="image">صورة </string>
+
+    <string name="ratio_restricted">@string/ratio</string>
+
+</resources>

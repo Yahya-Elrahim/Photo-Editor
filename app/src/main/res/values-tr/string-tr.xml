@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_add_watermark">Yaratıcılığınızı serbest bırakın ve kendi sanatınızı yaratın</string>
+    <string name="settings">Ayarlar</string>
+    <string name="dialog_permission_title">İzinler</string>
+    <string name="dialog_permission_details">Bu özelliği kullanmak için izin sağlanmalı. Bu özelliği Ayarlar\'dan etkinleştirebilirsiniz.</string>
+    <string name="dialog_go_settings">AYARLAR\'A GİT</string>
+    <string name="cancel">İptal</string>
+    <string name="menu_share">Uygulamayı Paylaş</string>
+    <string name="menu_rate">Değerlendirme</string>
+    <string name="menu_feedback">Geri Bildirim</string>
+    <string name="menu_more_app">Diğer Uygulamalar</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+
+
+
+    <string name="text_title_dialog_sort_by_photo">Fotoğrafı sırala</string>
+    <string name="text_title_dialog_sort_by_album">Albümü sırala</string>
+    <string name="action_sort">Sırala</string>
+    <string name="ad_attribution">Reklam</string>
+    <string name="rating_promote">Daha iyi bir uygulama sunmak için canla başla çalışıyoruz\n bizi değerlendirebilirseniz çok seviniriz.</string>
+    <string name="rating_title_1">Hayır. Korkunç!!!</string>
+    <string name="rating_title_2">Kötü!!!</string>
+    <string name="rating_title_3">Orta!</string>
+    <string name="rating_title_4">İyi!</string>
+    <string name="rating_title_5">Bizde sizi seviyoruz!</string>
+    <string name="rating_text_1">Geliştirmek için gerçeten geri bildiriminize ihtiyacımız var.</string>
+    <string name="rating_text_4">Değerlendirmeniz için teşekkürler.</string>
+    <string name="rating_text_5">Alabileceğmizin en iyisi :)</string>
+    <string name="rating_text_how_get">Nasıl 5 yıldız alabiliriz?</string>
+    <string name="rating_text_rate_us">Google Play\'de bizi 5 yıldızle değerlendirin.</string>
+    <string name="rating_text_rate_on_store">Google Play\'de  değerlendir</string>
+    <string name="feedback">Geri Bildirim</string>
+    <string name="tap_to_select">Tüm albümler</string>
+    <string name="select_photo">Fotoğrafı seç</string>
+    <string name="rating_dialog_feedback_title">Geri bildirim</string>
+    <string name="text_images">(%1$d)</string>
+    <string name="select_images">2 ile 9 arasında fotoğraflar seç</string>
+    <string name="text_title_activity_album">Albümler</string>
+
+
+    <string name="press_back">Çıkmak için lütfen tekrar basın.</string>
+    <string name="sharpen">Keskinleşme</string>
+    <string name="hue">Renk tonu</string>
+    <string name="exposure">Pozlandırma</string>
+    <string name="saturation">doygunluk</string>
+    <string name="choose_email">Uygulamayı seç.</string>
+    <string name="brightness">Parlaklık</string>
+    <string name="contrast">Kontrast</string>
+    <string name="rating_dialog_maybe_later">Daha Sonra</string>
+    <string name="rating_dialog_submit">Geri Bildirim</string>
+    <string name="dialog_discard_title">Değişiklikler kaydedilmedi. Devam etmek istiyor musunuz?</string>
+    <string name="discard">İptal</string>
+    <string name="save">KAYDET</string>
+    <string name="edit">Düzenleyici</string>
+    <string name="collage">kolaj</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="please_try_again">Oops, Lütfen tekrar deneyin …</string>
+    <string name="directory">/.PhotoEditorTemp/</string>
+    <string name="importing_image">Görüntüyü içe aktarma…</string>
+    <string name="import_img_warning">Lütfen resmi içe aktarın!!!</string>
+    <string name="import_error">Görüntü alınırken hata oluştu.</string>
+    <string name="drag_color">Silmek için şaretçiyi sürükleyin.</string>
+    <string name="redoing">Yenden başlat</string>
+    <string name="drag_bw">Fotoğrafı onarmak için şaretçiyi sürükleyin.</string>
+    <string name="undoing">Geri alınıyor</string>
+    <string name="msg_draw_lasso">Kapalı bir çizgi çizin.</string>
+    <string name="msg_up_arrow">Seçenekleri görmek için YUKARI OKU tıklayın</string>
+    <string name="msg_auto_btn">Otomatik silme işlemini gerçekleştirmek için Otomatik düğmesine tıklayın</string>
+    <string name="msg_lasso_btn">ÇIKAR düğmesini tıklayın</string>
+    <string name="msg_manual_btn">Manuel olarak silmek için Manuel düğmesine tıklayın</string>
+    <string name="msg_bw_btn">Görüntüyü geri yüklemek için Geri yüklemek düğmesine tıklayın</string>
+    <string name="msg_zoom_btn">Görüntüyü sürükleyip yakınlaştırmak için Yakınlaştır düğmesine tıklayın.</string>
+    <string name="txt_not_detect_human">İnsan tespiti başarısız oldu. Lütfen tekrar deneyin.</string>
+    <string name="cut_photo">Fotoğraf Seç</string>
+    <string name="cut_outside">Dış Kes</string>
+    <string name="cut_inside">İç Kes</string>
+    <string name="radius">Büyüklük</string>
+    <string name="threshold">Eşik</string>
+    <string name="offset">Ofset</string>
+    <string name="auto">Otomatik</string>
+    <string name="lasso">Çıkar</string>
+    <string name="erase">Manuel</string>
+    <string name="restore">Geri yüklemek</string>
+    <string name="zoom">Yakınlaştır</string>
+    <string name="whitebalance">Beyaz dengesi</string>
+    <string name="vignette">Skeç</string>
+    <string name="on_internet">İnternet bağlantısı yok</string>
+    <string name="connect_internet">Lütfen internete bağlanın. Kurtarana kadar!</string>
+    <string name="ok">Tamam</string>
+
+    <string name="btn_free_trial">7-Day Free Trial</string>
+    <string name="btn_billing">One Time Purchase</string>
+
+    <string-array name="array_sort_value">
+        <item>İsim</item>
+        <item>Büyüklük</item>
+        <item>Tarih</item>
+    </string-array>
+
+    <string name="no_ads_evermore">Artık reklam yok</string>
+    <string name="continue_btn">Devam et</string>
+    <string name="use_without_internet">İnternetsiz kullanın.</string>
+    <string name="access_to_all_features">Tüm özelliklere erişim.</string>
+    <string name="join_full_experience">Tam Deneyime Katılın.</string>
+    <string name="email_app_not_installed">E-posta uygulaması yüklü değil</string>
+    <string name="extra">Diğer</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="next">Sonraki</string>
+    <string name="app_not_installed_error">Bu Uygulamayı bulanamıyor, lütfen indirip tekrar deneyin</string>
+
+    <string name="fonts">Yazı Tipleri</string>
+    <string name="shadows">gölgeler</string>
+    <string name="color">Renk</string>
+    <string name="background">Arka plan</string>
+    <string name="width">Genişlik</string>
+    <string name="height">Yükseklik</string>
+    <string name="texture">Yapı</string>
+    <string name="colored">Renklendirilmiş</string>
+    <string name="crop">Kırp</string>
+    <string name="rotate">Döndür</string>
+    <string name="horizontal">Yatay</string>
+    <string name="vertical">Dikey</string>
+    <string name="filter">Fıltre</string>
+    <string name="gradient">Gradyan</string>
+    <string name="mirror">Ayna</string>
+    <string name="mosaic">Mozaik</string>
+    <string name="ratio">Çerçeve oranı</string>
+    <string name="editing">Düzenleme</string>
+    <string name="name_album">Albüm adı</string>
+    <string name="paint">Boya</string>
+    <string name="shadow">Gölge</string>
+    <string name="art">Sanat</string>
+    <string name="style">Stil</string>
+    <string name="flip">Çevir</string>
+    <string name="eraser">Silgi</string>
+    <string name="blur">Bulanıklık</string>
+    <string name="drip">Damla</string>
+    <string name="motion">Hareket</string>
+    <string name="count">Sayı</string>
+    <string name="opacity">Opaklık</string>
+    <string name="spiral">Sarmal</string>
+    <string name="shape">Şekil</string>
+    <string name="frame">Çerçeve</string>
+    <string name="gray">Gray</string>
+    <string name="manual">Manuel</string>
+    <string name="wing">Kanat</string>
+    <string name="layout">Yerkeşim</string>
+    <string name="border">Kenar</string>
+    <string name="add_text">Yazı ekle</string>
+    <string name="adjust">Uyum</string>
+    <string name="overlay">Kaplama</string>
+    <string name="hard_mix">Sert karışım</string>
+    <string name="dodge">Kaçınma</string>
+    <string name="burn">Yakma</string>
+    <string name="size">Büyüklük</string>
+    <string name="neon">Neon</string>
+    <string name="magic">Sihir</string>
+    <string name="extract">Çıkarmak</string>
+    <string name="share_to">Paylaş</string>
+    <string name="other">Diğer</string>
+    <string name="ad">Reklam</string>
+    <string name="exit">ÇIKIŞ</string>
+    <string name="discard_changes">Değişiklikleri gözardı et</string>
+
+    <string name="effect">Efect</string>
+    <string name="text">Metin</string>
+    <string name="sticker">Etiket</string>
+    <string name="draw">Çizme</string>
+    <string name="splash">Splash</string>
+    <string name="pixlab">PixLab</string>
+    <string name="splash_bg">Splash BG</string>
+    <string name="sketch_bg">kroki BG</string>
+    <string name="blur_bg">Bulanıklık BG</string>
+    <string name="splash_sq">Splash SQ</string>
+    <string name="sketch_sq">kroki SQ</string>
+    <string name="change">Değiştir</string>
+    <string name="padding">kenar boşluğu</string>
+
+    <string name="select_least">Lütfen en azından </string>
+    <string name="image"> fotoğrag seçiniz</string>
+    <string name="ratio_restricted">Çerçeve O</string>
+
+</resources>

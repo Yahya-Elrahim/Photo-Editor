@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6584408212",
+    "project_id": "photo-editor-402b8",
+    "storage_bucket": "photo-editor-402b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6584408212:android:fcb62efa5872bb19507c81",
+        "android_client_info": {
+          "package_name": "com.johnapps.smartphotoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6584408212-o22ui4p5mrpc57ahalcf07d86heq8i1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnapps.smartphotoeditor",
+            "certificate_hash": "fb678f374dbe91c182339e978b7c7fcbfb9c31f2"
+          }
+        },
+        {
+          "client_id": "6584408212-rakqk005ba0qnre5ot8vos29rjqe8k91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiWhTAtmf64lGzePZWfW0qgkDrwKlAho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6584408212-rakqk005ba0qnre5ot8vos29rjqe8k91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8282517782247718~9057972723"
+    }
+  ],
+  "configuration_version": "1"
+}
